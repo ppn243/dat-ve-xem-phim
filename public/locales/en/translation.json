@@ -1,0 +1,18 @@
+{
+  "hello": {
+    "1": "hello",
+    "2": "hi"
+  },
+  "signin": "signin",
+  "register": "signup",
+  "Đăng nhập": "Login",
+  "Tài khoản": "UserName",
+  "Mật khẩu": "PassWord",
+  "Quên mật khẩu": "Forgot PassWord ?",
+  "Bạn chưa có tài khoản ?": "Don't have an account ?",
+  "Đăng ký": "Sign Up",
+  "Họ và tên": "Full Name",
+  "Số điện thoại": "Phone Number",
+  "Mã nhóm": "Group ID",
+  "Bạn đã có tài khoản ?": "Already have an account"
+}
